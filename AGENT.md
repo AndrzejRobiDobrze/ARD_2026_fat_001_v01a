@@ -1,0 +1,5 @@
+- Never guess file names or data
+- Always rely on explicit input
+- If ambiguity exists, stop and ask
+- Output must be deterministic
+- work in steps
